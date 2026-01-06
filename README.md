@@ -29,7 +29,6 @@ To showcase real-world cloud engineering practices such as high availability, mo
 - **Security Groups** restricting access between tiers
 - **CloudWatch** monitors Auto Scaling metrics and instance health
 - **Route 53** + **AWS Certificate Manager (ACM)** provides HTTPS on a custom domain  
-  (`https://justindemo.click`)
 
 ** Terraform Backend & State Locking:**
 - **Remote backend** stored in **S3** for collaboration and persistence
